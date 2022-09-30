@@ -1020,6 +1020,8 @@ class RegionSet(object):
             'minecraft:polished_deepslate_wall': (1810, 0),
             'minecraft:deepslate_brick_wall': (1811, 0),
             'minecraft:deepslate_tile_wall': (1812, 0),
+            'noob:noob_chest': (11508, 0),
+            'noob:noob_ore': (11509, 0),
         }
 
         colors = [   'white', 'orange', 'magenta', 'light_blue',
