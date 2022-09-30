@@ -529,7 +529,11 @@ enum mc_block_id {
     block_birch_trapdoor = 11333,
     block_jungle_trapdoor = 11334,
     block_acacia_trapdoor = 11335,
-    block_dark_oak_trapdoor = 11336
+    block_dark_oak_trapdoor = 11336,
+
+    // The Game of Noobs blocks below
+    block_noob_chest = 11337,
+    block_noob_ore = 11338
 };
 
 typedef uint16_t mc_block_t;
